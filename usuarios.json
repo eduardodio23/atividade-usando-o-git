@@ -1,0 +1,27 @@
+{
+    "admin": {
+        "nome": "eduardo",
+        "login": "admin",
+        "email": "eduardo@sistema.com",
+        "senha": "1234",
+        "cargo": "admin"
+    },
+    "lucas23": {
+        "nome": "lucas",
+        "email": "lucas@gmail.com",
+        "senha": "1234",
+        "cargo": "dev1"
+    },
+    "lucas14": {
+        "nome": "lucas",
+        "email": "lucas14@gmail.com",
+        "senha": "1234",
+        "cargo": "dev1"
+    },
+    "diego5": {
+        "nome": "diego",
+        "email": "diego@gmail.com",
+        "senha": "0202",
+        "cargo": "dev4"
+    }
+}
