@@ -1,0 +1,78 @@
+[
+    {
+        "usuario": "admin",
+        "titulo": "estudar python",
+        "descricao": "vê os if",
+        "concluida": false
+    },
+    {
+        "usuario": "gabriel23",
+        "titulo": "assistir youtube",
+        "descricao": "sobre programação",
+        "concluida": false
+    },
+    {
+        "usuario": "admin",
+        "titulo": "estudar",
+        "descricao": "vê youtube",
+        "concluida": true
+    },
+    {
+        "usuario": "admin",
+        "titulo": "jogar bola",
+        "descricao": "com os manos",
+        "concluida": false
+    },
+    {
+        "usuario": "lucas14",
+        "titulo": "trabalhar na laje",
+        "descricao": "lugar: piatã horario: 4:00",
+        "concluida": true,
+        "data_criacao": "25/11/2025",
+        "hora_criacao": "18:48"
+    },
+    {
+        "usuario": "lucas14",
+        "titulo": "estudar",
+        "descricao": "python",
+        "concluida": false,
+        "data_criacao": "25/11/2025",
+        "hora_criacao": "19:12"
+    },
+    {
+        "usuario": "lucas14",
+        "titulo": "ler",
+        "descricao": "livros",
+        "concluida": true,
+        "data_criacao": "25/11/2025",
+        "hora_criacao": "19:12",
+        "data_conclusao": "25/11/2025",
+        "hora_conclusao": "19:12"
+    },
+    {
+        "usuario": "marcospolo",
+        "titulo": "jogar",
+        "descricao": "jogos",
+        "concluida": false,
+        "data_criacao": "25/11/2025",
+        "hora_criacao": "20:07"
+    },
+    {
+        "usuario": "amanda",
+        "titulo": "jogar",
+        "descricao": "jogos",
+        "concluida": true,
+        "data_criacao": "25/11/2025",
+        "hora_criacao": "20:16",
+        "data_conclusao": "25/11/2025",
+        "hora_conclusao": "20:17"
+    },
+    {
+        "usuario": "amanda",
+        "titulo": "subir",
+        "descricao": "uma montanha",
+        "concluida": false,
+        "data_criacao": "25/11/2025",
+        "hora_criacao": "20:23"
+    }
+]

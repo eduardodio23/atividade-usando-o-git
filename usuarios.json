@@ -1,0 +1,20 @@
+{
+    "admin": {
+        "nome": "Administrador",
+        "email": "admin@sistema.com",
+        "senha": "1234",
+        "cargo": "admin"
+    },
+    "amanda": {
+        "nome": "amanda",
+        "email": "amanda@gmail.com",
+        "senha": "1234",
+        "cargo": "user"
+    },
+    "ulises": {
+        "nome": "ulises",
+        "email": "ulises@gmail.com",
+        "senha": "1234",
+        "cargo": "admin"
+    }
+}
